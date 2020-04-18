@@ -1,6 +1,6 @@
 [submodule "module_1"]
 	path = module_1
-	url = /module_1
+	url = https://github.com/alice-dub/module_1
 [submodule "module_2"]
 	path = module_2
-	url = /module_2
+	url = https://github.com/alice-dub/module_2
