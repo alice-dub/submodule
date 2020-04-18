@@ -6,3 +6,7 @@
 	path = module_2
 	url = https://github.com/alice-dub/module_2
 	branch = master
+[submodule "module_3"]
+	path = module_3
+	url = https://github.com/alice-dub/module_3
+	branch = master
